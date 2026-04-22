@@ -1,0 +1,14 @@
+# Secrets & sensitive inputs
+input.json
+inputs/
+keys/
+
+# ZK ceremony files (large & sensitive)
+*.ptau
+
+# Build artifacts
+build/
+proofs/
+
+# Node
+node_modules/
