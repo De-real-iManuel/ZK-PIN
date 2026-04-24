@@ -1,4 +1,5 @@
 # Secrets & sensitive inputs
+.env
 input.json
 inputs/
 keys/
